@@ -5,5 +5,14 @@
 - Atualmente aprendendo a fundo SQL e também Python.
 
 
+#### Domínio:
+- B.I
+- Microsoft Excel
+- MySQL
+- DAX
+- Microsoft Power BI
+- Microsoft Power Point
+
+
 ### Contato
  <a href="https://www.linkedin.com/in/danilo-kapor-476651a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
